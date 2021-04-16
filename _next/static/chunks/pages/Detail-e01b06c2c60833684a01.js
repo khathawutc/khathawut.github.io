@@ -1,0 +1,1 @@
+_N_E=(window.webpackJsonp_N_E=window.webpackJsonp_N_E||[]).push([[9],{fo1Z:function(_,n,o){(window.__NEXT_P=window.__NEXT_P||[]).push(["/Detail",function(){return o("z4TA")}])}},[["fo1Z",0,1,2,3,4]]]);
